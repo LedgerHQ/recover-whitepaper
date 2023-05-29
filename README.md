@@ -19,10 +19,6 @@ This repository consists of the following sections:
 
 While the whitepaper is primarily an informational document, we welcome any corrections or suggestions for improvement. If you spot a typo, a sentence that could be clearer, or even a significant error in our explanations, please feel free to raise an issue. 
 
-## License
-
-This whitepaper is released under the [MIT License](LICENSE.md). 
-
 ## Contact
 
 For any inquiries or feedback related to the Ledger Recover Cryptographic Protocol Whitepaper, feel free to [contact us](mailto:info@ledger.com).
