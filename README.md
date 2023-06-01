@@ -21,4 +21,4 @@ While the whitepaper is primarily an informational document, we welcome any corr
 
 ## Contact
 
-For any inquiries or feedback related to the Ledger Recover Cryptographic Protocol Whitepaper, feel free to [contact us](mailto:info@ledger.com).
+For any inquiries or feedback related to the Ledger Recover Cryptographic Protocol Whitepaper, feel free to [contact us](mailto:ledger-recover-contact@ledger.fr).
