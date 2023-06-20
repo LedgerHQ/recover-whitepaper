@@ -8,7 +8,7 @@ Ledger Recover is an advanced solution for the backup and restoration of your de
 
 Publishing this white paper is yet another step in our open-source roadmap, aiming at opening as much as possible of our technical stacks to the crypto community.
 
-<p align="center"><img src="open_source_roadmap.png" alt="Open-Source Roadmap" width="50%"></p>
+<p align="center"><img src="open_source_roadmap.png" alt="Open-Source Roadmap" width="75%"></p>
 
 ## Contents
 
