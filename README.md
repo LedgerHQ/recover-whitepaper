@@ -21,7 +21,7 @@ In this repository, you will find a PDF version of the [white paper](Ledger%20Re
 
 ## Contributing
 
-While the white paper is primarily an informational document, we welcome any corrections or suggestions for improvement. If you spot a typo, a sentence that could be clearer, or even a significant error in our explanations, please feel free to raise an issue.
+While the white paper is primarily an informational document, we welcome any corrections or suggestions for improvement. If you spot a typo, a sentence that could be clearer, or even a significant error in our explanations, please raise an issue.
 
 ## Contact
 
