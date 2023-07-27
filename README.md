@@ -10,6 +10,8 @@ Publishing this white paper is yet another step in our open-source roadmap, aimi
 
 <p align="center"><img src="open_source_roadmap.png" alt="Open-Source Roadmap" width="75%"></p>
 
+For a complete but less technical dive, you can read our blog series [The Genesis of Ledger Recover](https://www.ledger.com/blog/part-1-genesis-of-ledger-recover-self-custody-without-compromise).
+
 ## Contents
 
 In this repository, you will find a PDF version of the [white paper](Ledger%20Recover%20Technical%20White%20Paper.pdf) split in the following sections:
